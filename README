@@ -1,0 +1,13 @@
+This is a small function i use to refund paypal ids
+Author: Guillermo Siliceo Trueba
+
+USAGE:
+
+from refundpaypal_generic.py import refund_concert
+
+payment_transaction_ids = []
+refund_concert(payment_transaction_ids)
+
+Enjoy :)
+
+Feel free to do whatever you want with the code respecting the rights of the couple of libraries used here.
